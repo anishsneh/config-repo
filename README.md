@@ -1,1 +1,2 @@
-# config-repo
+# Configuration Repository
+Sample configuration repository for Spring Configuration server code.
