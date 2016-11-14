@@ -1,3 +1,3 @@
 Configuration Repository
 ========================
-Sample configuration repository for Spring Configuration server code.
+Sample configuration repository for Spring Cloud Configuration server code.
